@@ -1,2 +1,2 @@
 # Test
-Test Repository
+Just a Test Repository
